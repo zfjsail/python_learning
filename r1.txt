@@ -1,0 +1,386 @@
+The Prediction of Venture Capital Co-Investment Based on Structural Balance Theory
+0.439716312057
+Transfer Link Prediction across Heterogeneous Social Networks
+1.0
+Extracting Relations from Traditional Chinese Medicine Literature via Heterogeneous Entity Networks
+0.994974874372
+VEGAS: Visual influEnce GrAph Summarization on Citation Networks
+1.0
+Triadic Closure Pattern Analysis and Prediction in Social Networks
+1.0
+Diffusion of "Following" Links in Microblogging Networks
+0.870967741935
+Active Learning across Multiple Domains with Arbitrarily Different Distributions
+0.474576271186
+Predicting Individual Retweet Behavior by User Similarity: A Multi-Task Learning Approach
+0.41095890411
+FriendBurst: Ranking People Who Get Friends Fast in a Short Time
+0.41958041958
+Modeling Emotion Influence in Image Social Networks
+1.0
+Who Influenced You? Predicting Retweet via Social Influence Locality
+1.0
+Probabilistic topic modeling in multilingual settings: An overview of its methodology and applications
+1.0
+Labeling Clusters from both Linguistic and Statistical Perspectives: A Hybrid Approach
+1.0
+NewsMiner: Multifaceted News Analysis for Event Search
+1.0
+Co-Evolution of Multi-Typed Objects in Dynamic Star Networks
+1.0
+Generalized multipath planning model for ride-sharing systems
+1.0
+Novel RFID and ontology based Home Localization System for Misplaced Objects
+1.0
+Topic-Level Opinion Influence Model (TOIM): An Investigation Using Tencent Microblogging
+0.956043956044
+Multiple-Instance Learning with Instance Selection via Constructive Covering Algorithm
+1.0
+Learning to Predict Reciprocity and Triadic Closure in Social Networks
+1.0
+Typicality-based Collaborative Filtering Recommendation
+1.0
+Modeling Indirect Influence on Twitter
+1.0
+A NMF-framework for Unifying Posterior Probabilistic Clustering and Probabilistic Latent Semantic Indexing
+0.40490797546
+Query-dependent Cross Domain Ranking in Heterogeneous Network
+0.983606557377
+Mining diversity subgraph in multidisciplinary scientific collaboration networks: A meso perspective
+1.0
+Large scale instance matching via multiple indexes and candidate selection
+1.0
+A unified approach to matching semantic data on the Web
+1.0
+Actively Learning to Infer Social Ties
+1.0
+Learning Influence from Heterogeneous Social Networks
+1.0
+Quantitative Study of Individual Emotional States in Social Networks
+1.0
+Batch Mode Active Learning for Networked Data
+1.0
+On Optimization of Expertise Matching with Various Constraints
+1.0
+Adding Community and Dynamic to Topic Models
+1.0
+The dynamic features of Delicious, Flickr, and YouTube
+1.0
+Social Community Analysis via Factor Graph Model
+1.0
+Modeling Topic and Community Structure in Social Tagging: the TTR-LDA-Community Model
+0.912087912088
+Topic Level Expertise Search over Heterogeneous Networks
+1.0
+Note on Algorithm Differences Between Nonnegative Matrix Factorization And Probabilistic Latent Semantic Indexing
+0.40206185567
+A Combination Approach to Web User Profiling
+1.0
+Modeling the Evolution of Associated Data
+1.0
+A Constraint-based Topic Modeling Approach for Name Disambiguation
+1.0
+RiMOM: A Dynamic Multi-Strategy Ontology Alignment Framework
+0.991596638655
+Entire Solution Path for Support Vector Machine in Positive and Unlabeled Classification
+0.971751412429
+Arnetminer: Expertise Oriented Search Using Social Networks
+1.0
+Using Bayesian Decision for Ontology Mapping
+1.0
+iASA: Learning to Annotate the Semantic Web
+1.0
+The Lifecycle and Cascade of WeChat Social Messaging Groups
+0.421052631579
+Social Role-Aware Emotion Contagion in Image Social Networks
+0.666666666667
+iPath: Forecasting the Pathway to Impact
+0.452380952381
+AMiner: Toward Understanding Big Scholar Data
+0.486111111111
+Modeling and Predicting Learning Behavior in MOOCs
+0.612244897959
+Panther: Fast Top-k Similarity Search on Large Networks
+0.981818181818
+COSNET: Connecting Heterogeneous Social Networks with Local and Global Consistency
+1.0
+Probabilistic Community and Role Model for Social Networks
+1.0
+Entity Matching across Heterogeneous Sources
+1.0
+Uncovering the Formation of Triadic Closure in Social Networks
+0.69696969697
+Incorporating Social Context and Domain Knowledge for Entity Recognition
+1.0
+Sampling Representative Users from Large Social Networks
+1.0
+RAIN: Social Role-Aware Information Diffusion
+1.0
+Beyond Query: Interactive User Intention Understanding
+0.489361702128
+Name List Only? Target Entity Disambiguation in Short Texts
+0.54
+EgoNetCloud: Event-based Dynamic Egocentric Network Visualization
+0.5
+Understanding the Emotions Behind Social Images: Inferring with User Demographics
+0.544
+Simultaneous Optimization of Both Node and Edge Conservation in Network Alignment via WAVE
+1.0
+Addressing Cold Start in Recommender Systems: A Semi-supervised Co-training Algorithm
+1.0
+Role-aware Conformity Influence Modeling and Analysis in Social Networks
+1.0
+How Do Your Friends on Social Media Disclose Your Emotions? In <a href="http://www
+0.836879432624
+Forecasting Potential Diabetes Complications
+0.988764044944
+Cross-lingual Knowledge Validation Based Taxonomy Derivation from Heterogeneous Online Wikis
+0.994594594595
+On Modelling Non-linear Topical Dependencies
+1.0
+Mining Triadic Closure Patterns in Social Networks
+1.0
+Mining Query-Based Subnetwork Outliers in Heterogeneous Information Networks
+1.0
+Flow-based Influence Graph Visual Summarization
+1.0
+Active Learning for Streaming Networked Data
+1.0
+CIKM 2014 Competition
+0.448979591837
+AMiner-mini: A People Search Engine for University
+0.573913043478
+Why Do Chinese Venture Capitals Invest Jointly? An Analysis of Complex Investment Network
+0.484472049689
+How Can I Index My Thousands of Photos Effectively and Automatically? An Unsupervised Feature Selection Approach
+0.995555555556
+Active Learning for Networked Data Based on Non-progressive Diffusion Model
+1.0
+Learning to Infer Public Emotions from Large-scale Networked Voice Data
+1.0
+Confluence: Conformity Influence in Large Social Networks
+1.0
+SAE: Social Analytic Engine for Large Networks
+1.0
+Social Influence Locality for Modeling Retweeting Behaviors
+1.0
+What Users Care about: a Framework for Social Content Alignment
+1.0
+Boosting Cross-lingual Knowledge Linking via Concept Annotation
+1.0
+Mining Structural Hole Spanners Through Information Diffusion in Social Networks
+1.0
+Influence Maximization in Dynamic Social Networks
+1.0
+Mining Diabetes Complication and Treatment Patterns for Clinical Decision Support
+1.0
+Models and Algorithms for Social Influence Analysis
+1.0
+Patent Partner Recommendation in Enterprise Social Networks
+1.0
+Accelerating Topic Model Training on a Single Machine
+1.0
+Cross-domain Collaboration Recommendation
+1.0
+Inferring Social Ties across Heterogeneous Networks
+0.990099009901
+Probabilistic Topic Modeling in Multilingual Settings: A Short Overview of Its Methodology and Applications
+0.966507177033
+Can We Understand van Gogh’s Mood? Learning to Infer Affects from Images in Social Networks
+0.947368421053
+Understanding the Emotional Impact of Images
+1.0
+Link Prediction and Recommendation across Heterogeneous Social Networks
+1.0
+Accurate Product Name Recognition from User Generated Content
+1.0
+Mining Competitive Relationships by Learning across Heterogeneous Networks
+1.0
+Mining Topic-Level Opinion Influence in Microblog
+1.0
+Inferring Geographic Coincidence in Ephemeral Social Networks
+1.0
+To Better Stand on the Shoulder of Giants
+1.0
+Cross-lingual Knowledge Linking Across Wiki Knowledge Bases
+1.0
+Learning to Diversify Expert Finding with Subtopics
+1.0
+Instant Social Graph Search
+1.0
+Plink-LDA: Using Link as Prior Information in Topic Modeling
+1.0
+User-level sentiment analysis incorporating social networks
+1.0
+Topic-level Social Network Search
+1.0
+Social Context Summarization
+1.0
+Learning to Infer Social Ties in Large Networks
+1.0
+Citation Count Prediction: Learning to Estimate Future Citations for Literature
+1.0
+Dynamic Social Influence Analysis through Time-dependent Factor Graphs
+1.0
+OOLAM: An Opinion Oriented Link Analysis Model for Influence Persona Discovery
+1.0
+Knowledge Transfer across Multilingual Corpora via Latent Topics
+1.0
+Learning to Advertise: How many ads are enough?  In <a href="http://pakdd2011
+0.758064516129
+Social Action Tracking via Noise Tolerant Time-varying Factor Graphs
+1.0
+Mining Advisor-Advisee Relationships from Research Publication Networks
+1.0
+Community Evolution Detection in Dynamic Heterogeneous Information Networks
+1.0
+Term Filtering with Bounded Error
+1.0
+MoodCast: Emotion Prediction via Dynamic Continuous Factor Graph Model
+1.0
+Mining Topic-Level Influence in Heterogeneous Networks
+1.0
+Combining Link and Content for Collective Active Learning
+1.0
+Understanding Retweeting Behaviors in Social Networks
+1.0
+Community-based Topic Modeling for Social Tagging
+1.0
+Identifying New Categories in Community Question Answering Archives: A Topic Modeling Approach
+1.0
+Recommendation Based On Object Typicality
+1.0
+TyCo: Towards Typicality-based Collaborative Filtering Recommendation
+1.0
+Expertise Matching via Constraint-based Optimization
+1.0
+MQuery: Fast Graph Query via Semantic Indexing for Mobile Context
+1.0
+Automatically Grouping Questions in Yahoo!Answers
+0.989898989899
+Social Influence Analysis in Large-scale Networks
+1.0
+Expert2Bole: From Expert  Finding to Bole Search
+0.989473684211
+A Flexible Topic-driven Framework for News Exploration
+1.0
+Towards Ontology Learning from Folksonomies
+1.0
+Topic Distributions over Links on Web
+1.0
+Multi-topic based Query-oriented Summarization
+1.0
+Actively Learning Ontology Matching via User Interaction
+1.0
+Heterogeneous Cross Domain Ranking in Latent Space
+1.0
+A Gauss Function based Approach for Unbalanced Ontology Matching
+1.0
+A Discriminative Approach to Topic-based Citation Recommendation
+1.0
+Discovering the Staring People From Social Networks
+1.0
+Topic-level Random Walk Through Probabilistic Model
+1.0
+Query-Focused Summarization by Combining Topic Model and Affinity Propagation
+1.0
+ArnetMiner: Extraction and Mining of Academic Social Networks
+1.0
+A Topic Modeling Approach and its Integration into the Random Walk Framework for Academic Search
+1.0
+Academic Conference Homepage Understanding Using Constrained Hierarchical Conditional Random Fields
+1.0
+Recommendation over a Heterogeneous Social Network
+1.0
+Expertise Search in a Time-varying Social Network
+1.0
+Name Disambiguation Using Atomic Clusters
+1.0
+Path similarity based Directory Ontology Matching
+1.0
+Result of Ontology Alignment with RiMOM at OAEI'08
+0.914285714286
+WWW 2008 workshop on social web search and mining: SWSM2008
+0.423728813559
+A Unified Framework for Name Disambiguation
+1.0
+Extraction and Mining of an Academic Social Network
+1.0
+A Mixture Model for Expert Finding
+1.0
+Social Network Extraction of Academic Researchers
+1.0
+ArnetMiner: An Expertise Oriented Search System for Web Community
+1.0
+A Unified Approach to Researcher Profiling
+1.0
+Enhancing Semantic Web by Semantic Annotation: Experiences in Building an Automatic Conference Calendar
+1.0
+A Constraint-Based Probabilistic Framework for Name Disambiguation
+1.0
+Verification of Web Service Conversations Specified in WSCL
+1.0
+ArnetMiner: Toward Building and Mining Social Networks
+0.730434782609
+A Unified Tagging Approach to Text Normalization
+1.0
+Result of Ontology Alignment with RiMOM at OAEI'07
+0.914285714286
+Toward Strategy Selection for Ontology Alignment
+0.979591836735
+EOS: Expertise Oriented Search Using Social Networks
+1.0
+Social SIM Networks
+0.576923076923
+Expert Finding in a Social Network
+1.0
+Tree-Structured Conditional Random Fields for Semantic Annotation
+1.0
+Result of Ontology Alignment with RiMOM at OAEI'06
+0.933333333333
+Semantic Annotation Using Horizontal and Vertical Contexts
+1.0
+A New Approach to Personal Network Search based on Information Extraction
+0.924050632911
+SWARMS: A Tool for Domain Exploration in Semantic Web and its Application in FOAF Domain
+0.731034482759
+&nbsp;SWARMS: A Tool for Domain Exploration in Semantic Web
+0.913793103448
+Semantic Similarity based Ontology Cache
+1.0
+Weighted Ontology based Semantic Search Exploiting Semantic Similarity
+0.916030534351
+Table Detection from Plain Text using Machine Learning and Document Structure
+1.0
+Keyword Extraction Using Support Vector Machine
+1.0
+&nbsp;Email Data Cleaning
+0.863636363636
+SWARMS: A Tool for Exploring Domain Knowledge
+0.56862745098
+Association Search in Semantic Web: Search + Inference
+0.990654205607
+Feature-Correlation based Multi-View Detection
+1.0
+&nbsp;Multiple Strategies Detection in Ontology Mapping
+0.942307692308
+Toward Detecting Strategies for Ontology Mapping
+0.761061946903
+Using DAML+OIL to Enhance Search Semantic
+1.0
+Resource Association Discovery in Semantic Web
+1.0
+Risk Minimization based Ontology Mapping
+1.0
+Loss Minimization based Keyword Distillation
+1.0
+Keyword Extraction based Peer Clustering
+1.0
+A Component Retrieval Method based on Facet-Weight Self-Learning
+1.0
+Multi-Senses and Multi-Dependencies Discovery among Words
+0.478632478632
+Research of Satisfied Atomic and Anonymous Electronic Commerce Protocol
+0.924242424242
+Research of Atomic and Anonymous Electronic Commerce Protocol
+1.0

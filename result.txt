@@ -1,0 +1,48 @@
+step 1: diff amount 53
+step 2: diff amount 36
+step 3: diff amount 22 
+
+1 the prediction of venture capital co-investment based on structural balance theory
+
+2 active learning across multiple domains with arbitrarily different distributions
+
+3 predicting individual retweet behavior by user similarity: a multi-task learning approach
+
+4 friendburst: ranking people who get friends fast in a short time
+
+5 robust tri-modal automatic speech recognition for consumer applications
+
+6 a nmf-framework for unifying posterior probabilistic clustering and probabilistic latent semantic indexing
+
+7 note on algorithm differences between nonnegative matrix factorization and probabilistic latent semantic indexing
+
+8 the lifecycle and cascade of wechat social messaging groups
+
+9 on skewed multi-dimensional distributions: the fusionrp model, algorithms, and discoveries
+
+10 ipath: forecasting the pathway to impact
+
+11 aminer: toward understanding big scholar data
+
+12 modeling and predicting learning behavior in moocs
+
+13 uncovering the formation of triadic closure in social networks
+
+14 beyond query: interactive user intention understanding
+
+15 name list only? target entity disambiguation in short texts
+
+16 egonetcloud: event-based dynamic egocentric network visualization
+
+17 understanding the emotions behind social images: inferring with user demographics
+
+18 cikm 2014 competition
+
+19 aminer-mini: a people search engine for university
+
+20 why do chinese venture capitals invest jointly? an analysis of complex investment network
+
+21 www 2008 workshop on social web search and mining: swsm2008
+
+22 multi-senses and multi-dependencies discovery among words
+

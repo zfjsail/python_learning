@@ -1,0 +1,211 @@
+The Prediction of Venture Capital Co-Investment Based on Structural Balance Theory
+Transfer Link Prediction across Heterogeneous Social Networks
+Extracting Relations from Traditional Chinese Medicine Literature via Heterogeneous Entity Networks
+VEGAS: Visual influEnce GrAph Summarization on Citation Networks
+Triadic Closure Pattern Analysis and Prediction in Social Networks
+Diffusion of "Following" Links in Microblogging Networks
+Active Learning across Multiple Domains with Arbitrarily Different Distributions
+Predicting Individual Retweet Behavior by User Similarity: A Multi-Task Learning Approach
+FriendBurst: Ranking People Who Get Friends Fast in a Short Time
+Modeling Emotion Influence in Image Social Networks
+Inferring social status and rich club effects in enterprise communication networks
+Who Influenced You? Predicting Retweet via Social Influence Locality
+Probabilistic topic modeling in multilingual settings: An overview of its methodology and applications
+Labeling Clusters from both Linguistic and Statistical Perspectives: A Hybrid Approach
+NewsMiner: Multifaceted News Analysis for Event Search
+Co-Evolution of Multi-Typed Objects in Dynamic Star Networks
+Generalized multipath planning model for ride-sharing systems
+Novel RFID and ontology based Home Localization System for Misplaced Objects
+Topic-Level Opinion Influence Model (TOIM): An Investigation Using Tencent Microblogging
+Activity Prediction in Mobile Social Networks
+Multiple-Instance Learning with Instance Selection via Constructive Covering Algorithm
+Learning to Predict Reciprocity and Triadic Closure in Social Networks
+Typicality-based Collaborative Filtering Recommendation
+Robust tri-modal automatic speech recognition for consumer applications
+Modeling Indirect Influence on Twitter
+A NMF-framework for Unifying Posterior Probabilistic Clustering and Probabilistic Latent Semantic Indexing
+Query-dependent Cross Domain Ranking in Heterogeneous Network
+Mining diversity subgraph in multidisciplinary scientific collaboration networks: A meso perspective
+Large scale instance matching via multiple indexes and candidate selection
+A unified approach to matching semantic data on the Web
+A Unified Probabilistic Framework for Name Disambiguation in Digital Library
+Actively Learning to Infer Social Ties
+Learning Influence from Heterogeneous Social Networks
+Quantitative Study of Individual Emotional States in Social Networks
+Batch Mode Active Learning for Networked Data
+Generation of personalized ontology based on consumer emotion and behavior analysis
+On Optimization of Expertise Matching with Various Constraints
+Adding Community and Dynamic to Topic Models
+The dynamic features of Delicious, Flickr, and YouTube
+Social Community Analysis via Factor Graph Model
+Mining relational paths in integrated biomedical data
+Modeling Topic and Community Structure in Social Tagging: the TTR-LDA-Community Model
+Finding complex biological relationships in recent PubMed articles using Bio-LDA
+Topic Level Expertise Search over Heterogeneous Networks
+Note on Algorithm Differences Between Nonnegative Matrix Factorization And Probabilistic Latent Semantic Indexing
+A Combination Approach to Web User Profiling
+Modeling the Evolution of Associated Data
+A Constraint-based Topic Modeling Approach for Name Disambiguation
+RiMOM: A Dynamic Multi-Strategy Ontology Alignment Framework
+Entire Solution Path for Support Vector Machine in Positive and Unlabeled Classification
+Arnetminer: Expertise Oriented Search Using Social Networks
+Using Bayesian Decision for Ontology Mapping
+iASA: Learning to Annotate the Semantic Web
+The Lifecycle and Cascade of WeChat Social Messaging Groups
+Social Role-Aware Emotion Contagion in Image Social Networks
+On Skewed Multi-dimensional Distributions: the FusionRP Model, Algorithms, and Discoveries
+iPath: Forecasting the Pathway to Impact
+AMiner: Toward Understanding Big Scholar Data
+Modeling and Predicting Learning Behavior in MOOCs
+Panther: Fast Top-k Similarity Search on Large Networks
+COSNET: Connecting Heterogeneous Social Networks with Local and Global Consistency
+Probabilistic Community and Role Model for Social Networks
+CoupledLP: Link Prediction in Coupled Networks
+Entity Matching across Heterogeneous Sources
+Uncovering the Formation of Triadic Closure in Social Networks
+Incorporating Social Context and Domain Knowledge for Entity Recognition
+Sampling Representative Users from Large Social Networks
+RAIN: Social Role-Aware Information Diffusion
+Beyond Query: Interactive User Intention Understanding
+Name List Only? Target Entity Disambiguation in Short Texts
+EgoNetCloud: Event-based Dynamic Egocentric Network Visualization
+Understanding the Emotions Behind Social Images: Inferring with User Demographics
+Simultaneous Optimization of Both Node and Edge Conservation in Network Alignment via WAVE
+Inferring User Demographics and Social Strategies in Mobile Social Networks
+Addressing Cold Start in Recommender Systems: A Semi-supervised Co-training Algorithm
+Role-aware Conformity Influence Modeling and Analysis in Social Networks
+How Do Your Friends on Social Media Disclose Your Emotions?
+Forecasting Potential Diabetes Complications
+Cross-lingual Knowledge Validation Based Taxonomy Derivation from Heterogeneous Online Wikis
+On Modelling Non-linear Topical Dependencies
+Mining Triadic Closure Patterns in Social Networks
+Mining Query-Based Subnetwork Outliers in Heterogeneous Information Networks
+Flow-based Influence Graph Visual Summarization
+Active Learning for Streaming Networked Data
+Modeling Paying Behavior in Game Social Networks
+CIKM 2014 Competition
+AMiner-mini: A People Search Engine for University
+Why Do Chinese Venture Capitals Invest Jointly? An Analysis of Complex Investment Network
+How Can I Index My Thousands of Photos Effectively and Automatically? An Unsupervised Feature Selection Approach
+Active Learning for Networked Data Based on Non-progressive Diffusion Model
+Learning to Infer Public Emotions from Large-scale Networked Voice Data
+Confluence: Conformity Influence in Large Social Networks
+SAE: Social Analytic Engine for Large Networks
+Social Influence Locality for Modeling Retweeting Behaviors
+What Users Care about: a Framework for Social Content Alignment
+Boosting Cross-lingual Knowledge Linking via Concept Annotation
+Transfer Learning Based Cross-lingual Knowledge Extraction for Wikipedia
+Mining Structural Hole Spanners Through Information Diffusion in Social Networks
+Influence Maximization in Dynamic Social Networks
+Mining Diabetes Complication and Treatment Patterns for Clinical Decision Support
+How long will she call me? Distribution, Social Theory and Duration Prediction
+Models and Algorithms for Social Influence Analysis
+Patent Partner Recommendation in Enterprise Social Networks
+Accelerating Topic Model Training on a Single Machine
+Cross-domain Collaboration Recommendation
+PatentMiner: Topic-driven Patent Analysis and Mining
+Inferring Social Ties across Heterogeneous Networks
+Probabilistic Topic Modeling in Multilingual Settings: A Short Overview of Its Methodology and Applications
+Can We Understand van Gogh’s Mood? Learning to Infer Affects from Images in Social Networks
+Understanding the Emotional Impact of Images
+Link Prediction and Recommendation across Heterogeneous Social Networks
+Accurate Product Name Recognition from User Generated Content
+Mining Competitive Relationships by Learning across Heterogeneous Networks
+Mining Topic-Level Opinion Influence in Microblog
+Inferring Geographic Coincidence in Ephemeral Social Networks
+To Better Stand on the Shoulder of Giants
+Cross-lingual Knowledge Linking Across Wiki Knowledge Bases
+Learning to Diversify Expert Finding with Subtopics
+Instant Social Graph Search
+Plink-LDA: Using Link as Prior Information in Topic Modeling
+User-level sentiment analysis incorporating social networks
+Topic-level Social Network Search
+Social Context Summarization
+Learning to Infer Social Ties in Large Networks
+ADANA: Active Name Disambiguation
+Detecting Community Kernels in Large Social Networks
+Who Will Follow You Back? Reciprocal Relationship Prediction
+Citation Count Prediction: Learning to Estimate Future Citations for Literature
+Dynamic Social Influence Analysis through Time-dependent Factor Graphs
+OOLAM: An Opinion Oriented Link Analysis Model for Influence Persona Discovery
+Knowledge Transfer across Multilingual Corpora via Latent Topics
+Learning to Advertise: How many ads are enough?
+Social Action Tracking via Noise Tolerant Time-varying Factor Graphs
+Mining Advisor-Advisee Relationships from Research Publication Networks
+Community Evolution Detection in Dynamic Heterogeneous Information Networks
+Term Filtering with Bounded Error
+MoodCast: Emotion Prediction via Dynamic Continuous Factor Graph Model
+Mining Topic-Level Influence in Heterogeneous Networks
+Combining Link and Content for Collective Active Learning
+Understanding Retweeting Behaviors in Social Networks
+Community-based Topic Modeling for Social Tagging
+Identifying New Categories in Community Question Answering Archives: A Topic Modeling Approach
+Recommendation Based On Object Typicality
+TyCo: Towards Typicality-based Collaborative Filtering Recommendation
+Expertise Matching via Constraint-based Optimization
+MQuery: Fast Graph Query via Semantic Indexing for Mobile Context
+Automatically Grouping Questions in Yahoo!Answers
+Social Influence Analysis in Large-scale Networks
+Expert2Bole: From Expert  Finding to Bole Search
+A Flexible Topic-driven Framework for News Exploration
+Towards Ontology Learning from Folksonomies
+Topic Distributions over Links on Web
+Multi-topic based Query-oriented Summarization
+Actively Learning Ontology Matching via User Interaction
+Heterogeneous Cross Domain Ranking in Latent Space
+A Gauss Function based Approach for Unbalanced Ontology Matching
+A Discriminative Approach to Topic-based Citation Recommendation
+RiMOM Results for OAEI 2009
+Discovering the Staring People From Social Networks
+Topic-level Random Walk Through Probabilistic Model
+Query-Focused Summarization by Combining Topic Model and Affinity Propagation
+ArnetMiner: Extraction and Mining of Academic Social Networks
+A Topic Modeling Approach and its Integration into the Random Walk Framework for Academic Search
+Academic Conference Homepage Understanding Using Constrained Hierarchical Conditional Random Fields
+Recommendation over a Heterogeneous Social Network
+Expertise Search in a Time-varying Social Network
+Name Disambiguation Using Atomic Clusters
+Path similarity based Directory Ontology Matching
+Result of Ontology Alignment with RiMOM at OAEI'08
+WWW 2008 workshop on social web search and mining: SWSM2008
+A Unified Framework for Name Disambiguation
+Extraction and Mining of an Academic Social Network
+A Mixture Model for Expert Finding
+Social Network Extraction of Academic Researchers
+ArnetMiner: An Expertise Oriented Search System for Web Community
+A Unified Approach to Researcher Profiling
+Enhancing Semantic Web by Semantic Annotation: Experiences in Building an Automatic Conference Calendar
+A Constraint-Based Probabilistic Framework for Name Disambiguation
+Verification of Web Service Conversations Specified in WSCL
+ArnetMiner: Toward Building and Mining Social Networks
+A Unified Tagging Approach to Text Normalization
+Result of Ontology Alignment with RiMOM at OAEI'07
+Toward Strategy Selection for Ontology Alignment
+EOS: Expertise Oriented Search Using Social Networks
+Social SIM Networks
+Expert Finding in a Social Network
+Tree-Structured Conditional Random Fields for Semantic Annotation
+Result of Ontology Alignment with RiMOM at OAEI'06
+Semantic Annotation Using Horizontal and Vertical Contexts
+A New Approach to Personal Network Search based on Information Extraction
+SWARMS: A Tool for Domain Exploration in Semantic Web and its Application in FOAF Domain
+SWARMS: A Tool for Domain Exploration in Semantic Web
+Semantic Similarity based Ontology Cache
+Weighted Ontology based Semantic Search Exploiting Semantic Similarity
+Table Detection from Plain Text using Machine Learning and Document Structure
+Keyword Extraction Using Support Vector Machine
+Email Data Cleaning
+SWARMS: A Tool for Exploring Domain Knowledge
+Association Search in Semantic Web: Search + Inference
+Feature-Correlation based Multi-View Detection
+Multiple Strategies Detection in Ontology Mapping
+Toward Detecting Strategies for Ontology Mapping
+Using DAML+OIL to Enhance Search Semantic
+Resource Association Discovery in Semantic Web
+Risk Minimization based Ontology Mapping
+Loss Minimization based Keyword Distillation
+Keyword Extraction based Peer Clustering
+A Component Retrieval Method based on Facet-Weight Self-Learning
+Multi-Senses and Multi-Dependencies Discovery among Words
+Research of Satisfied Atomic and Anonymous Electronic Commerce Protocol
+Research of Atomic and Anonymous Electronic Commerce Protocol
